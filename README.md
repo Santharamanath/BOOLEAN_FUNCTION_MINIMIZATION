@@ -52,7 +52,7 @@ and(q,adash,b,d);
 and(r,a,b,cdash);
 or(f1,p,q,r);
 
-and g1(s,yash,z);
+and g1(s,ydash,z);
 and g2(t,x,y);
 and g3(u,w,z);
 or g4(f2,s,t,u);
