@@ -61,16 +61,19 @@ endmodule
 ```
 **RTL realization**
 
-![Screenshot 2024-03-25 081948](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/b77b500f-0718-454a-baf4-d3b6f560b870)
+![319946102-5f8fd602-1f64-4305-94ed-a00425815952](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/5e88c768-1359-4de1-9c27-30b36608cacf)
+
 
 **Truth table**
 
-![316250520-e6c8b78e-c29b-46ee-aee9-29ee38d94cd0](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/deaba710-03a9-4d25-b7a0-56f2c8fc2ade)
+![316250520-e6c8b78e-c29b-46ee-aee9-29ee38d94cd0](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/f2ecbac4-57f6-4136-b61b-d6a708096c3c)
+
 
 
 **Timing Diagram**
 
-![316250652-ac8ff171-7e0f-4034-9f73-63466a9d2ffe](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/e4dd2e20-ccce-4a06-b41e-3e533f261217)
+![319946818-12685259-eff6-4f38-a688-18485b77fe4a](https://github.com/Santharamanath/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035289/37003697-22ae-4e2c-91ba-23a298de0604)
+
 
 **Result:**
 
