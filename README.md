@@ -38,7 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:Santha ramanath M
 RegisterNumber:212223220097*/
 
-module Ex02(a,b,c,d,w,x,y,z,f1,f2);
+module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 wire adash,bdash,cdash,ddash,ydash,p,q,r,s,t,u;
@@ -57,6 +57,7 @@ and g2(t,x,y);
 and g3(u,w,z);
 or g4(f2,s,t,u);
 endmodule
+
 
 ```
 **RTL realization**
